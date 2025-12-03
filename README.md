@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Hi, I’m Sunil from Nepal.
+I’m studying Computer Science and developing skills in Python, programming, and web technologies.
+I enjoy building projects and improving as a developer.
 <!--
 **Sunar92/Sunar92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

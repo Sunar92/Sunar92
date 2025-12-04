@@ -4,9 +4,7 @@ I’m studying Computer Science and developing skills in Python, programming, an
 I enjoy building projects and improving as a developer.
 <!--
 **Sunar92/Sunar92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 here is my facebook profile: https://www.facebook.com/share/19NU9d4uBp/
 here is my Instagram profile: https://www.instagram.com/sunil_sunar2?igsh=MXZiN3g0ZG04aGl2eg==
 here is my LinkedIn profile: https://www.linkedin.com/in/sunil-sunar-20a387385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
